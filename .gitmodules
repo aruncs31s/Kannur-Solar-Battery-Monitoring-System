@@ -1,0 +1,9 @@
+[submodule "Kicad_Files"]
+	path = Kicad_Files
+	url = https://github.com/aruncs31s/Kannur-Solar-Battery-Monitoring-System-Desing-KiCad
+[submodule "Microcontroller-Codes"]
+	path = Microcontroller-Codes
+	url = https://github.com/aruncs31s/Kannur-Solar-Battery-Monitoring-System-Microcontroller-Codes
+[submodule "Website"]
+	path = Website
+	url = https://github.com/aruncs31s/Kannur-Solar-Battery-Monitoring-System-Website
